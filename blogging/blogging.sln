@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blogging", "blogging\blogging.csproj", "{AD1C3230-8D58-4F2D-8CA0-36C98A06FB34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD1C3230-8D58-4F2D-8CA0-36C98A06FB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1C3230-8D58-4F2D-8CA0-36C98A06FB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1C3230-8D58-4F2D-8CA0-36C98A06FB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1C3230-8D58-4F2D-8CA0-36C98A06FB34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
