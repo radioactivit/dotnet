@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{9144D0BF-8E66-4BCF-85D5-A6275C33AA02}|Default">
+  <MonoDevelop.Ide.ItemProperties.ContosoUniversity PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Departments/Delete.cshtml">
+    <Files>
+      <File FileName="Pages/Departments/Index.cshtml" Line="41" Column="54" />
+      <File FileName="Pages/Departments/Edit.cshtml" Line="41" Column="95" />
+      <File FileName="Pages/Departments/Edit.cshtml.cs" Line="100" Column="64" />
+      <File FileName="Models/Department.cs" Line="17" Column="50" />
+      <File FileName="Pages/Departments/Delete.cshtml.cs" Line="64" Column="14" />
+      <File FileName="Pages/Departments/Details.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/Departments/Delete.cshtml" Line="1" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ContosoUniversity" expanded="True">
+            <Node name="ContosoUniversity" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Departments" expanded="True">
+                  <Node name="Delete.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>ModelState</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

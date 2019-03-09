@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7282CDB8-520A-4E51-8F5A-07F78B2F271A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Supermarket.API PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/CategoriesController.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="61" Column="47" />
+      <File FileName="Controllers/CategoriesController.cs" Line="14" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Supermarket.API" expanded="True">
+            <Node name="Supermarket.API" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CategoriesController.cs" selected="True" />
+              </Node>
+              <Node name="Persistence" expanded="True">
+                <Node name="Contexts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
