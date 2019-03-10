@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{7282CDB8-520A-4E51-8F5A-07F78B2F271A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Supermarket.API PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/CategoriesController.cs">
+    <Files>
+      <File FileName="Controllers/UsersController.cs" Line="29" Column="83" />
+      <File FileName="Controllers/LoginController.cs" Line="63" Column="51" />
+      <File FileName="Domain/Services/IAuthenticationService.cs" Line="7" Column="44" />
+      <File FileName="Controllers/ProtectedController.cs" Line="24" Column="6" />
+      <File FileName="Program.cs" Line="31" Column="14" />
+      <File FileName="Startup.cs" Line="98" Column="74" />
+      <File FileName="Services/AuthenticationService.cs" Line="66" Column="2" />
+      <File FileName="Security/Hashing/PasswordHasher.cs" Line="6" Column="43" />
+      <File FileName="Security/Tokens/TokenHandler.cs" Line="12" Column="11" />
+      <File FileName="Security/Tokens/TokenOptions.cs" Line="1" Column="1" />
+      <File FileName="Controllers/CategoriesController.cs" Line="14" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Supermarket.API" expanded="True">
+            <Node name="Supermarket.API" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CategoriesController.cs" selected="True" />
+              </Node>
+              <Node name="Domain" expanded="True">
+                <Node name="Models" expanded="True" />
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="Mapping" expanded="True" />
+              <Node name="Persistence" expanded="True">
+                <Node name="Repositories" expanded="True" />
+              </Node>
+              <Node name="Security" expanded="True">
+                <Node name="Hashing" expanded="True" />
+                <Node name="Tokens" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>passwordHasher</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/franckm/dev/dotnet/Supermarket.API/Controllers/UsersController.cs" relfile="Controllers/UsersController.cs" line="31" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

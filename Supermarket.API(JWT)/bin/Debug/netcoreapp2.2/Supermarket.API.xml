@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Supermarket.API</name>
+    </assembly>
+    <members>
+        <member name="M:Supermarket.API.Controllers.CategoriesController.PostAsync(Supermarket.API.Resources.SaveCategoryResource)">
+             <summary>
+             Creates a Category.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /Category
+                 {
+                    "name": "category1",
+                 }
+            
+             </remarks>
+             <returns>A newly created category</returns>
+             <response code="200">Returns the newly created category</response>
+             <response code="400">If the category is null</response>  
+        </member>
+        <member name="M:Supermarket.API.Controllers.CategoriesController.DeleteAsync(System.Int32)">
+            <summary>
+            Deletes a specific Category.
+            </summary>
+            <param name="id"></param>  
+        </member>
+        <member name="M:Supermarket.API.Domain.Services.Communication.CategoryResponse.#ctor(Supermarket.API.Domain.Models.Category)">
+            <summary>
+            Creates a success response.
+            </summary>
+            <param name="category">Saved category.</param>
+            <returns>Response.</returns>
+        </member>
+        <member name="M:Supermarket.API.Domain.Services.Communication.CategoryResponse.#ctor(System.String)">
+            <summary>
+            Creates am error response.
+            </summary>
+            <param name="message">Error message.</param>
+            <returns>Response.</returns>
+        </member>
+        <member name="T:Supermarket.API.Persistence.Contexts.DatabaseSeed">
+            <summary>
+            EF Core already supports database seeding throught overriding "OnModelCreating", but I decided to create a separate seed class to avoid 
+            injecting IPasswordHasher into AppDbContext.
+            To understand how to use database seeding into DbContext classes, check this link: https://docs.microsoft.com/en-us/ef/core/modeling/data-seeding
+            </summary>
+        </member>
+    </members>
+</doc>
