@@ -1,0 +1,11 @@
+/Users/franckm/dev/dotnet/MoreWithAsync/bin/Debug/netcoreapp2.2/MoreWithAsync.deps.json
+/Users/franckm/dev/dotnet/MoreWithAsync/bin/Debug/netcoreapp2.2/MoreWithAsync.runtimeconfig.json
+/Users/franckm/dev/dotnet/MoreWithAsync/bin/Debug/netcoreapp2.2/MoreWithAsync.runtimeconfig.dev.json
+/Users/franckm/dev/dotnet/MoreWithAsync/bin/Debug/netcoreapp2.2/MoreWithAsync.dll
+/Users/franckm/dev/dotnet/MoreWithAsync/bin/Debug/netcoreapp2.2/MoreWithAsync.pdb
+/Users/franckm/dev/dotnet/MoreWithAsync/obj/Debug/netcoreapp2.2/MoreWithAsync.csprojAssemblyReference.cache
+/Users/franckm/dev/dotnet/MoreWithAsync/obj/Debug/netcoreapp2.2/MoreWithAsync.csproj.CoreCompileInputs.cache
+/Users/franckm/dev/dotnet/MoreWithAsync/obj/Debug/netcoreapp2.2/MoreWithAsync.AssemblyInfoInputs.cache
+/Users/franckm/dev/dotnet/MoreWithAsync/obj/Debug/netcoreapp2.2/MoreWithAsync.AssemblyInfo.cs
+/Users/franckm/dev/dotnet/MoreWithAsync/obj/Debug/netcoreapp2.2/MoreWithAsync.dll
+/Users/franckm/dev/dotnet/MoreWithAsync/obj/Debug/netcoreapp2.2/MoreWithAsync.pdb
