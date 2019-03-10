@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "introToLinq", "introToLinq.csproj", "{704BFD58-E7E1-4FCD-917D-916F1EE8458D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{704BFD58-E7E1-4FCD-917D-916F1EE8458D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704BFD58-E7E1-4FCD-917D-916F1EE8458D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704BFD58-E7E1-4FCD-917D-916F1EE8458D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704BFD58-E7E1-4FCD-917D-916F1EE8458D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

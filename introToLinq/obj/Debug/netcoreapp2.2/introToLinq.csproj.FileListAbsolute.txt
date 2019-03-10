@@ -1,0 +1,11 @@
+/Users/franckm/dev/dotnet/introToLinq/bin/Debug/netcoreapp2.2/introToLinq.deps.json
+/Users/franckm/dev/dotnet/introToLinq/bin/Debug/netcoreapp2.2/introToLinq.runtimeconfig.json
+/Users/franckm/dev/dotnet/introToLinq/bin/Debug/netcoreapp2.2/introToLinq.runtimeconfig.dev.json
+/Users/franckm/dev/dotnet/introToLinq/bin/Debug/netcoreapp2.2/introToLinq.dll
+/Users/franckm/dev/dotnet/introToLinq/bin/Debug/netcoreapp2.2/introToLinq.pdb
+/Users/franckm/dev/dotnet/introToLinq/obj/Debug/netcoreapp2.2/introToLinq.csprojAssemblyReference.cache
+/Users/franckm/dev/dotnet/introToLinq/obj/Debug/netcoreapp2.2/introToLinq.csproj.CoreCompileInputs.cache
+/Users/franckm/dev/dotnet/introToLinq/obj/Debug/netcoreapp2.2/introToLinq.AssemblyInfoInputs.cache
+/Users/franckm/dev/dotnet/introToLinq/obj/Debug/netcoreapp2.2/introToLinq.AssemblyInfo.cs
+/Users/franckm/dev/dotnet/introToLinq/obj/Debug/netcoreapp2.2/introToLinq.dll
+/Users/franckm/dev/dotnet/introToLinq/obj/Debug/netcoreapp2.2/introToLinq.pdb
