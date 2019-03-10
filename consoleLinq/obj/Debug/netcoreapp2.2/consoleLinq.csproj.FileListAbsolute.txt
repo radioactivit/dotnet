@@ -1,0 +1,11 @@
+/Users/franckm/dev/dotnet/consoleLinq/bin/Debug/netcoreapp2.2/consoleLinq.deps.json
+/Users/franckm/dev/dotnet/consoleLinq/bin/Debug/netcoreapp2.2/consoleLinq.runtimeconfig.json
+/Users/franckm/dev/dotnet/consoleLinq/bin/Debug/netcoreapp2.2/consoleLinq.runtimeconfig.dev.json
+/Users/franckm/dev/dotnet/consoleLinq/bin/Debug/netcoreapp2.2/consoleLinq.dll
+/Users/franckm/dev/dotnet/consoleLinq/bin/Debug/netcoreapp2.2/consoleLinq.pdb
+/Users/franckm/dev/dotnet/consoleLinq/obj/Debug/netcoreapp2.2/consoleLinq.csprojAssemblyReference.cache
+/Users/franckm/dev/dotnet/consoleLinq/obj/Debug/netcoreapp2.2/consoleLinq.csproj.CoreCompileInputs.cache
+/Users/franckm/dev/dotnet/consoleLinq/obj/Debug/netcoreapp2.2/consoleLinq.AssemblyInfoInputs.cache
+/Users/franckm/dev/dotnet/consoleLinq/obj/Debug/netcoreapp2.2/consoleLinq.AssemblyInfo.cs
+/Users/franckm/dev/dotnet/consoleLinq/obj/Debug/netcoreapp2.2/consoleLinq.dll
+/Users/franckm/dev/dotnet/consoleLinq/obj/Debug/netcoreapp2.2/consoleLinq.pdb
